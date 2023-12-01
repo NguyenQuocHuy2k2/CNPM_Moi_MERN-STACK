@@ -1,0 +1,115 @@
+{
+    "_id" : ObjectId("64b560267617a8113c19ec71"),
+    "role" : NumberInt(1),
+    "history" : [
+
+    ],
+    "name" : "admin",
+    "email" : "admin@gmail.com",
+    "salt" : "cb62f7e0-24b7-11ee-8d17-0ba768dfff23",
+    "hashed_password" : "94b953193d0704d8c52e5d5458968aecf7cd7c25",
+    "createdAt" : ISODate("2023-07-17T15:37:10.505+0000"),
+    "updatedAt" : ISODate("2023-07-17T15:37:10.505+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b56540c9f4e33e34f1a3f8"),
+    "role" : NumberInt(0),
+    "history" : [
+        {
+            "_id" : "64b560927617a8113c19ec75",
+            "name" : "MacBook Air 15 inch với chip M2",
+            "description" : "đẹp",
+            "category" : {
+                "_id" : "64b5605b7617a8113c19ec73",
+                "name" : "Macbook",
+                "createdAt" : "2023-07-17T15:38:03.987Z",
+                "updatedAt" : "2023-07-17T15:38:03.987Z",
+                "__v" : NumberInt(0)
+            },
+            "quantity" : NumberInt(1),
+            "transaction_id" : "4bv0hbbd",
+            "amount" : "155.00"
+        }
+    ],
+    "name" : "user",
+    "email" : "user@gmail.com",
+    "salt" : "d5ba7df0-24ba-11ee-bd77-9dfdb47f668d",
+    "hashed_password" : "b715eac5534c10cc55218c98ee12706a94a43a11",
+    "createdAt" : ISODate("2023-07-17T15:58:56.344+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:08:44.629+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b575f7597e6865f036f40a"),
+    "role" : NumberInt(0),
+    "history" : [
+        {
+            "_id" : "64b560827617a8113c19ec74",
+            "name" : "MacBook Air 13 inch với chip M1",
+            "description" : "đẹp",
+            "category" : {
+                "_id" : "64b5605b7617a8113c19ec73",
+                "name" : "Macbook",
+                "createdAt" : "2023-07-17T15:38:03.987Z",
+                "updatedAt" : "2023-07-17T15:38:03.987Z",
+                "__v" : NumberInt(0)
+            },
+            "quantity" : "2",
+            "transaction_id" : "4eabpqsg",
+            "amount" : "4000.00"
+        },
+        {
+            "_id" : "64b560e87617a8113c19ec76",
+            "name" : "apple watch",
+            "description" : "gia re vai",
+            "category" : {
+                "_id" : "64b560537617a8113c19ec72",
+                "name" : "apple watch",
+                "createdAt" : "2023-07-17T15:37:55.723Z",
+                "updatedAt" : "2023-07-17T15:37:55.723Z",
+                "__v" : NumberInt(0)
+            },
+            "quantity" : NumberInt(1),
+            "transaction_id" : "r4j2bjc6",
+            "amount" : "157.00"
+        },
+        {
+            "_id" : "64b560927617a8113c19ec75",
+            "name" : "MacBook Air 15 inch với chip M2",
+            "description" : "đẹp",
+            "category" : {
+                "_id" : "64b5605b7617a8113c19ec73",
+                "name" : "Macbook",
+                "createdAt" : "2023-07-17T15:38:03.987Z",
+                "updatedAt" : "2023-07-17T15:38:03.987Z",
+                "__v" : NumberInt(0)
+            },
+            "quantity" : NumberInt(1),
+            "transaction_id" : "r4j2bjc6",
+            "amount" : "157.00"
+        },
+        {
+            "_id" : "64b560e87617a8113c19ec76",
+            "name" : "apple watch",
+            "description" : "gia re vai",
+            "category" : {
+                "_id" : "64b560537617a8113c19ec72",
+                "name" : "apple watch",
+                "createdAt" : "2023-07-17T15:37:55.723Z",
+                "updatedAt" : "2023-07-17T15:37:55.723Z",
+                "__v" : NumberInt(0)
+            },
+            "quantity" : NumberInt(1),
+            "transaction_id" : "m4ebzt9b",
+            "amount" : "2.00"
+        }
+    ],
+    "name" : "khoa",
+    "email" : "khoa@gmail.com",
+    "salt" : "cc860830-24c4-11ee-84a4-5dbdf3623746",
+    "hashed_password" : "0ec2883135cad575381d8d4ea225909dcffbfc8a",
+    "createdAt" : ISODate("2023-07-17T17:10:15.862+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:16:42.481+0000"),
+    "__v" : NumberInt(0)
+}

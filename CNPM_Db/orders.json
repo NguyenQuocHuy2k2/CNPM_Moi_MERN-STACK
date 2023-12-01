@@ -1,0 +1,93 @@
+{
+    "_id" : ObjectId("64b5759c597e6865f036f408"),
+    "status" : "Not processed",
+    "products" : [
+        {
+            "_id" : ObjectId("64b560927617a8113c19ec75"),
+            "name" : "MacBook Air 15 inch với chip M2",
+            "price" : NumberInt(155),
+            "createdAt" : ISODate("2023-07-17T15:38:58.549+0000"),
+            "updatedAt" : ISODate("2023-07-17T15:38:58.549+0000"),
+            "__v" : NumberInt(0),
+            "count" : NumberInt(1)
+        }
+    ],
+    "transaction_id" : "4bv0hbbd",
+    "amount" : NumberInt(155),
+    "user" : ObjectId("64b56540c9f4e33e34f1a3f8"),
+    "createdAt" : ISODate("2023-07-17T17:08:44.742+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:08:44.742+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b5761f597e6865f036f40b"),
+    "status" : "Not processed",
+    "products" : [
+        {
+            "_id" : ObjectId("64b560827617a8113c19ec74"),
+            "name" : "MacBook Air 13 inch với chip M1",
+            "price" : NumberInt(2000),
+            "createdAt" : ISODate("2023-07-17T15:38:42.622+0000"),
+            "updatedAt" : ISODate("2023-07-17T15:38:42.622+0000"),
+            "__v" : NumberInt(0),
+            "count" : NumberInt(2)
+        }
+    ],
+    "transaction_id" : "4eabpqsg",
+    "amount" : NumberInt(4000),
+    "user" : ObjectId("64b575f7597e6865f036f40a"),
+    "createdAt" : ISODate("2023-07-17T17:10:55.620+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:10:55.620+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b57741597e6865f036f40d"),
+    "status" : "Not processed",
+    "products" : [
+        {
+            "_id" : ObjectId("64b560e87617a8113c19ec76"),
+            "name" : "apple watch",
+            "price" : NumberInt(2),
+            "createdAt" : ISODate("2023-07-17T15:40:24.926+0000"),
+            "updatedAt" : ISODate("2023-07-17T15:40:24.926+0000"),
+            "__v" : NumberInt(0),
+            "count" : NumberInt(1)
+        },
+        {
+            "_id" : ObjectId("64b560927617a8113c19ec75"),
+            "name" : "MacBook Air 15 inch với chip M2",
+            "price" : NumberInt(155),
+            "createdAt" : ISODate("2023-07-17T15:38:58.549+0000"),
+            "updatedAt" : ISODate("2023-07-17T15:38:58.549+0000"),
+            "__v" : NumberInt(0),
+            "count" : NumberInt(1)
+        }
+    ],
+    "transaction_id" : "r4j2bjc6",
+    "amount" : NumberInt(157),
+    "user" : ObjectId("64b575f7597e6865f036f40a"),
+    "createdAt" : ISODate("2023-07-17T17:15:45.811+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:15:45.811+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b5777a597e6865f036f410"),
+    "status" : "Not processed",
+    "products" : [
+        {
+            "_id" : ObjectId("64b560e87617a8113c19ec76"),
+            "name" : "apple watch",
+            "price" : NumberInt(2),
+            "createdAt" : ISODate("2023-07-17T15:40:24.926+0000"),
+            "updatedAt" : ISODate("2023-07-17T15:40:24.926+0000"),
+            "__v" : NumberInt(0),
+            "count" : NumberInt(1)
+        }
+    ],
+    "transaction_id" : "m4ebzt9b",
+    "amount" : NumberInt(2),
+    "user" : ObjectId("64b575f7597e6865f036f40a"),
+    "createdAt" : ISODate("2023-07-17T17:16:42.498+0000"),
+    "updatedAt" : ISODate("2023-07-17T17:16:42.498+0000"),
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,21 @@
+{
+    "_id" : ObjectId("64b6d6b316b0575c8cd7738b"),
+    "name" : "Mac",
+    "createdAt" : ISODate("2023-07-18T18:15:15.244+0000"),
+    "updatedAt" : ISODate("2023-07-18T18:15:15.244+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b6d6b916b0575c8cd7738c"),
+    "name" : "Iphone",
+    "createdAt" : ISODate("2023-07-18T18:15:21.930+0000"),
+    "updatedAt" : ISODate("2023-07-18T18:15:21.930+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("64b6d6c416b0575c8cd7738d"),
+    "name" : "Ipad",
+    "createdAt" : ISODate("2023-07-18T18:15:32.611+0000"),
+    "updatedAt" : ISODate("2023-07-18T18:15:32.611+0000"),
+    "__v" : NumberInt(0)
+}
